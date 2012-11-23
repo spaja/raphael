@@ -13,7 +13,7 @@
 // │ Copyright (c) 2008-2011 Dmitry Baranovskiy (http://dmitry.baranovskiy.com/)          │ \\
 // │ Licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) license. │ \\
 // └──────────────────────────────────────────────────────────────────────────────────────┘ \\
-
+// test2
 (function (glob) {
     var version = "0.3.4",
         has = "hasOwnProperty",
